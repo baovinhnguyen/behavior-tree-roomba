@@ -1,7 +1,5 @@
 ####################################
 # roomba.py
-# Spring 2020
-#
 # Purpose: To simulate the behavior tree of a roomba
 ###################################
 import random
